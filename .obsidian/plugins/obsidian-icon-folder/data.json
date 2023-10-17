@@ -1,0 +1,43 @@
+{
+  "settings": {
+    "migrated": true,
+    "iconPacksPath": ".obsidian/plugins/obsidian-icon-folder/icons",
+    "fontSize": 16,
+    "emojiStyle": "twemoji",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "TiDeviceDesktopStar",
+      "FasBookOpen",
+      "FasBrain",
+      "TiAlphabetLatin",
+      "TiCheckbox"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": false
+  },
+  "Cap": "⭐",
+  "Theoria": "FasBriefcase",
+  "TODAY'S TO-DO.md": "TiCheckbox",
+  "Theoria/ChatEasy": "FabIconLogo",
+  "Theoria/ChatEasy/Env files.md": "FasUserSecret",
+  "Theoria/ChatEasy/Standup.md": "FasPhone",
+  "Theoria/General.md": "RiHome2Fill",
+  "Theoria/Accomplishment Sheet.md": "FasTrophy",
+  "Theoria/SSH IP Addresses.md": "FasWifi",
+  "Quick Notes.md": "RiFilePaper2Fill",
+  "Laptop Setup": "FasLaptopCode",
+  "Theoria/ChatEasy/List of Improvements and Fixes.md": "FasRoad",
+  "Theoria/ChatEasy/Current Sprint Ticket Notes.md": "FasTicket",
+  "Theoria/ChatEasy/TO - DOs.md": "TiCheckbox",
+  "Theoria/Terminologies.md": "TiAlphabetLatin",
+  "Knowledge Vault": "FasBookOpen",
+  "Knowledge Vault/General Coding Notes": "FasBrain",
+  "Knowledge Vault/Deployment": "TiDeviceDesktopStar"
+}

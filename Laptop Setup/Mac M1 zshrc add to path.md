@@ -1,0 +1,1 @@
+- ~/.zshrc (vim .zshrc) to add PATH
