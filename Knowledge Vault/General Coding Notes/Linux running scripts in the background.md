@@ -20,3 +20,16 @@ pkill -f notify_branch_change.sh
 ps aux | grep notify_branch_change.sh
 ```
 
+- Check running nohup scripts
+```
+ps aux | grep notify
+```
+	The "notify" is part of the scripts name i.e. notify_branch_change.sh 
+
+
+
+
+- ChartEasy
+```
+nohup ./notify_branch_chart_change.sh > /dev/null 2>&1 &
+```

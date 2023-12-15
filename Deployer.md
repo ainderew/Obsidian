@@ -1,0 +1,4 @@
+- [ ] Pull when deploying
+- [ ] PM2 Reset
+- [ ] Chaining multiple VMs
+- [ ] Reset Database

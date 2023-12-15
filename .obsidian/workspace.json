@@ -13,13 +13,86 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Knowledge Vault/General Coding Notes/Copying files from SSH server.md",
+                "file": "Theoria/ChatEasy/List of Improvements and Fixes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "efba245d596605ba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Theoria/SSH IP Addresses.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1cbe27b4f08ebb3d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Theoria/ChatEasy/List of Improvements and Fixes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5fc86d64b78b13bd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2023-12-15.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "75f5f86e5a7afa12",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Theoria/ChatEasy/List of Improvements and Fixes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4b5113f046fb6563",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Theoria/ChatEasy/List of Improvements and Fixes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "02c6dd417b263a8b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily Notes/2023-11-15.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -48,7 +121,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ssh",
+                "query": "style",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Knowledge Vault/General Coding Notes/Copying files from SSH server.md",
+                "file": "2023-12-15.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Knowledge Vault/General Coding Notes/Copying files from SSH server.md",
+                "file": "2023-12-15.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Knowledge Vault/General Coding Notes/Copying files from SSH server.md"
+                "file": "2023-12-15.md"
               }
             }
           },
@@ -152,7 +225,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -164,46 +238,47 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "db71c76f7a77b72c",
+  "active": "5fc86d64b78b13bd",
   "lastOpenFiles": [
-    "Daily Notes/2023-10-17.md",
-    "TODAY'S TO-DO.md",
-    "Daily Notes",
-    "Theoria/SSH IP Addresses.md",
-    "Knowledge Vault/General Coding Notes/Elastic Search.md",
-    "Knowledge Vault/Deployment/Deploying on AZURE.md",
-    "Knowledge Vault/CPP/Basics.md",
-    "Knowledge Vault/CPP/Memory Allocation.md",
+    "2023-12-15.md",
+    "Knowledge Vault/General Coding Notes/RabbitMQ.md",
     "Theoria/ChatEasy/List of Improvements and Fixes.md",
-    "Quick Notes.md",
-    "advent of code.md",
-    "Untitled.canvas",
-    "Knowledge Vault/General Coding Notes/Close modal when clicking on background.md",
-    "Theoria/ChatEasy/TO - DOs.md",
-    "Theoria/ChatEasy/Current Sprint Ticket Notes.md",
-    "Knowledge Vault/General Coding Notes/Linux running scripts in the background.md",
-    "Knowledge Vault/General Coding Notes/Aliasing ssh for faster access.md",
-    "Knowledge Vault/General Coding Notes/Process ID of scripts ran in VMs.md",
-    "Knowledge Vault/General Coding Notes/Copying files from SSH server.md",
-    "Untitled 1.md",
-    "Knowledge Vault/General Coding Notes/SSH key for MongoDB Compass.md",
-    "Knowledge Vault/Deployment/Setting up new linux server.md",
-    "control flow data.md",
-    "My note.md",
     "JS.md",
+    "Knowledge Vault/Deployment/Deploying on AZURE.md",
+    "Knowledge Vault/General Coding Notes/Linux running scripts in the background.md",
+    "Knowledge Vault/General Coding Notes/Process ID of scripts ran in VMs.md",
+    "Knowledge Vault/General Coding Notes/SSH key for MongoDB Compass.md",
+    "Knowledge Vault/General Coding Notes/Close modal when clicking on background.md",
+    "Knowledge Vault/General Coding Notes/Aliasing ssh for faster access.md",
     "Knowledge Vault/Deployment/Setting up PM2.md",
+    "Knowledge Vault/Deployment/Setting up new linux server.md",
+    "Daily Notes/October/2023-10-23.md",
+    "images/Pasted image 20230905231224.png",
+    "images/Pasted image 20230905231136.png",
+    "Untitled.md",
+    "Untitled 2.md",
+    "TODAY'S TO-DO.md",
+    "sec.md",
+    "Quick Notes.md",
+    "Facility Groups Documentation.md",
+    "Deployer.md",
+    "Christmas party ideas.md",
+    "Business.md",
+    "advent of code.md",
+    "Theoria/Terminologies.md",
+    "Theoria/SSH IP Addresses.md",
+    "Theoria/mongodb seminar.md",
+    "Daily Notes/October",
+    "Daily Notes",
+    "Untitled.canvas",
     "Knowledge Vault/Deployment",
-    "Cap/Bugs.md",
     "Knowledge Vault/CPP",
     "Knowledge Vault",
-    "images/Pasted image 20230905231136.png",
     "images",
     "images/Pasted image 20230905231549.png",
-    "images/Pasted image 20230905231224.png",
     "Laptop Setup",
     "Theoria/ChatEasy",
     "Knowledge Vault/General Coding Notes",
-    "Cap",
-    "Theoria"
+    "Cap"
   ]
 }

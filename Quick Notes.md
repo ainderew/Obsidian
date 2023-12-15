@@ -1,5 +1,8 @@
+ESPARE
 log2base2.com - checkout learning resource for ds and cpp
 
+**Ideas**
+yaml to webpage
 
 ### Songs
 Kali Uchis – Moonlight 
@@ -11,14 +14,7 @@ Kali Uchis – Moonlight
 Metrobank cc reference
 9175283855AAA
 
-
-New Features
-
-Task Specific Channels
-
-- All facilities now by default have task-specific channels located above the patient's list. Channels added (Medical Records, Social Work, Dietary, PT/OT, MDS, Business Office)
     
-
 Org Admin's Admin Dashboard
 
 - Org admins now have a dashboard to adjust settings for users in their facilities. These settings include:

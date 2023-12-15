@@ -1,5 +1,7 @@
 SERVER:  
-`pm2 start ./build/server.js --name tm-chateasy-server`
+```
+pm2 start ./build/server.js --name tm-chateasy-server
+```
 
 
 CLIENT  
@@ -10,3 +12,6 @@ ssh-keygen -t rsa -b 4096 -C "andrewapinon@gmail.com"
 
 
 ssh -i ~/.ssh/andrew.pem andrew@172.188.49.40
+
+
+pm2 start ./server/src/server.js --name ai

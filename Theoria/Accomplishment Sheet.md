@@ -11,3 +11,5 @@
 
 - Fixed code smell that caused 100s of thousands of duplicate documents being created in our database
 - Fixed issues with notifications and added facility grouopings
+- Added notifier to our slack channel to help mobile team identify what branch was deployed in the development environment
+- Added error reports in-app. By adding a global error handler that captures the error logs in the console and sends it to our database.

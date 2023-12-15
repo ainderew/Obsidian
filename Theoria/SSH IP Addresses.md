@@ -4,7 +4,7 @@
 |TMChatEasyServer0|Azure|[azureuser@20.120.19.74](mailto:azureuser@20.120.19.74)||Kenneth  <br>Andrew|
 |TMChatEasyServer1|Azure|[azureuser@13.68.187.112](mailto:azureuser@13.68.187.112)||Kenneth  <br>  <br>Andrew|
 |TMChatEasyServer2|Azure|[azureuser@20.127.14.169](mailto:azureuser@20.127.14.169)|
-
+Production
 **Server**
 ssh -i ~/.ssh/tm-andrew azureuser@20.120.19.74
 ssh -i ~/.ssh/tm-andrew azureuser@13.68.187.112
@@ -13,6 +13,8 @@ ssh -i ~/.ssh/tm-andrew azureuser@20.127.14.169
 **Client**
 ssh -i ~/.ssh/tm-andrew azureuser@20.228.229.234
 
+theoria@143.198.77.239
+
 Server SSH Access Checklist
 
 |   |   |   |   |   |
@@ -20,6 +22,7 @@ Server SSH Access Checklist
 |Server|Platform|User/IP Address/Sudo PW|Sudo Password|Given to|
 |dev|DigitalOcean|james@206.189.168.89|theoriamedical|Kenneth  <br>Andy<br><br>Andrew|
 |dev2|DigitalOcean|theoria@157.230.55.160|theoriamedical|Kenneth<br><br>Andy  <br>Andrew|
+|dev3|DigitalOcean|theoria@143.198.77.239|theoriamedical|Kenneth  <br>Andy<br><br>Andrew|
 |staging|DigitalOcean|james@178.128.76.4|theoriamedical|Kenneth<br><br>Andy  <br>Andrew|
 |prod-website|DigitalOcean|james@167.71.186.1|5Startelemed|Kenneth  <br>Andy|
 |prod-telemed|DigitalOcean|james@157.245.86.93|theoriamedical|Kenneth|

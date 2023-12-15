@@ -1,0 +1,1 @@
+nc -c telehack.com 23

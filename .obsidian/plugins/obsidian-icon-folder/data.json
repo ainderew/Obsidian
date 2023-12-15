@@ -6,11 +6,11 @@
     "emojiStyle": "twemoji",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "SiRabbitmq",
       "TiDeviceDesktopStar",
       "FasBookOpen",
       "FasBrain",
-      "TiAlphabetLatin",
-      "TiCheckbox"
+      "TiAlphabetLatin"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -39,5 +39,6 @@
   "Theoria/Terminologies.md": "TiAlphabetLatin",
   "Knowledge Vault": "FasBookOpen",
   "Knowledge Vault/General Coding Notes": "FasBrain",
-  "Knowledge Vault/Deployment": "TiDeviceDesktopStar"
+  "Knowledge Vault/Deployment": "TiDeviceDesktopStar",
+  "Knowledge Vault/General Coding Notes/RabbitMQ.md": "SiRabbitmq"
 }

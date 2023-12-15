@@ -1,4 +1,4 @@
-
+ 
 <span style="font-weight:900; font-size:2rem";>Stack</span>
 Is a region of a computer's memory that operates in a last-in, first-out (LIFO) manner. It means that the last item added to the stack is the first one to be removed. The stack is used for storing function call information, local variables, and control flow data.
 
